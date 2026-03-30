@@ -23,9 +23,9 @@ Build a modern SQL Server–based data warehouse that unifies sales data and sup
 
 ## Objective
 Develop SQL- based analysis to deliver insights of:
--- **Customer Behavior** 
--- **Product Performance**
--- **Sales Trends** 
+- **Customer Behavior** 
+- **Product Performance**
+- **Sales Trends** 
 
 These insights help stakeholders enabling better desicion making
 ---
