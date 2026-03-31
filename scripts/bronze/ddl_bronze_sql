@@ -8,6 +8,7 @@ Purpose:
   Run this script
 */
 
+
 --# If the table already exists then we need to check and drop that. And then we create table
 --# Write code to all tables to check before creating the tables
 
